@@ -245,6 +245,9 @@ Database Fields:
 
 ---
 
+DEMO VIDEO LINK:
+https://drive.google.com/file/d/1DPKkMbDzG4ZcDTepTUJU8aCIg0nqtO1C/view?usp=sharing
+
 # Conclusion
 
 This project demonstrates how digital payment applications manage shared expenses efficiently using algorithms and database systems.
